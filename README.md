@@ -139,3 +139,47 @@ Pandas, Matplotlib, Seaborn
 
 
 
+**Task 4: Tour & Travel Customer Churn Prediction**
+
+
+**Objective:**
+
+Build predictive models to identify customers likely to churn, helping the company optimize resources and retention strategies.
+
+
+**Dataset:**
+
+
+•	**Source:** Kaggle
+
+•	**Features:**
+
+               o	Age, Frequent Flyer Status, Annual Income Class, Services Opted, Account Synced to Social Media, Booked Hotel, Target (Churn/No Churn)
+
+	
+**Process:**
+
+
+1.	**Data Cleaning:** Ensured the dataset was free from missing or incorrect values.
+
+2.	**Exploratory Data Analysis (EDA):**
+   
+               o	Visualized the distribution of features (age, income class, etc.) and their relation to churn.
+  	
+               o	Analyzed churn distribution and identified significant churn indicators.
+  	
+3.	**Modeling:**
+   
+               o	Built and trained a Logistic Regression model and a Random Forest Classifier to predict churn.
+  	
+               o	Evaluated models using accuracy, confusion matrices, and classification reports.
+  	
+4.	**Results:** The Random Forest model performed better, accurately identifying customers likely to churn based on provided indicators.
+
+   
+**Tools Used:**
+Pandas, Scikit-learn, Matplotlib, Seaborn
+
+
+
+
