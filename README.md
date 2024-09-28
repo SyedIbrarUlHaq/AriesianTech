@@ -50,3 +50,46 @@ Analyze population growth in Pakistan at various administrative levels to unders
 Pandas, Matplotlib, Seaborn
 
 
+
+**Task 2: Retail Sales Data Analysis**
+
+
+**Objective:**
+
+Analyze sales data from a retail company to uncover trends, peak sales periods, and popular products, and make strategic recommendations.
+
+
+**Datasets:**
+
+
+1.	Features Data Set
+	
+2.	Sales Data Set
+	
+3.	Stores Data Set
+
+**Process:**
+
+1.	**Data Merging:** Combined the datasets on common keys like store IDs.
+    
+2.	**Sales Trends Analysis:**
+   
+o	Identified peak sales periods (holidays, seasonal trends).
+
+o	Analyzed product-wise sales and store-wise performance.
+
+3.	**Visualizations:**
+   
+o	Time-series analysis of weekly sales trends.
+
+o	Product-wise sales distribution to identify best-selling items.
+
+4.	**Insights and Recommendations:** Suggested promotional strategies for peak periods and highlighted top-performing products for focused marketing.
+   
+**Tools Used:**
+
+Pandas, Matplotlib, Seaborn, Plotly
+
+
+
+
