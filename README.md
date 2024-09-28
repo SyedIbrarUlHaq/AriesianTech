@@ -154,7 +154,7 @@ Build predictive models to identify customers likely to churn, helping the compa
 
 •	**Features:**
 
-               o	Age, Frequent Flyer Status, Annual Income Class, Services Opted, Account Synced to Social Media, Booked Hotel, Target (Churn/No Churn)
+o	Age, Frequent Flyer Status, Annual Income Class, Services Opted, Account Synced to Social Media, Booked Hotel, Target (Churn/No Churn)
 
 	
 **Process:**
@@ -164,15 +164,15 @@ Build predictive models to identify customers likely to churn, helping the compa
 
 2.	**Exploratory Data Analysis (EDA):**
    
-               o	Visualized the distribution of features (age, income class, etc.) and their relation to churn.
+o	Visualized the distribution of features (age, income class, etc.) and their relation to churn.
   	
-               o	Analyzed churn distribution and identified significant churn indicators.
+o	Analyzed churn distribution and identified significant churn indicators.
   	
 3.	**Modeling:**
    
-               o	Built and trained a Logistic Regression model and a Random Forest Classifier to predict churn.
+o	Built and trained a Logistic Regression model and a Random Forest Classifier to predict churn.
   	
-               o	Evaluated models using accuracy, confusion matrices, and classification reports.
+o	Evaluated models using accuracy, confusion matrices, and classification reports.
   	
 4.	**Results:** The Random Forest model performed better, accurately identifying customers likely to churn based on provided indicators.
 
