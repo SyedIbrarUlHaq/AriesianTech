@@ -30,9 +30,9 @@ Analyze population growth in Pakistan at various administrative levels to unders
 
 •	**Features:**
 
-     o	Province, Division, District, Sub-Division
+o	Province, Division, District, Sub-Division
      
-     o	Area, Rural/Urban Population (1998), Sex Ratio, Growth Rate, Household Size
+o	Area, Rural/Urban Population (1998), Sex Ratio, Growth Rate, Household Size
      
 **Process:**
 
