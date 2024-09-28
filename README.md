@@ -4,6 +4,7 @@
 
 This repository contains the data analysis projects I completed as part of my internship. The tasks range from population growth analysis to customer churn prediction, showcasing my skills in data analysis, visualization, and machine learning.
 
+
 **Table of Contents**
 
    •        **Task 1:** Population Growth Analysis in Pakistan
@@ -13,6 +14,8 @@ This repository contains the data analysis projects I completed as part of my in
    •	    **Task 3:** 80 Cereals Data Analysis
 
    •	    **Task 4:** Tour & Travel Customer Churn Prediction
+
+   
 
 **Task 1: Population Growth Analysis in Pakistan**
 
