@@ -96,3 +96,25 @@ Pandas, Matplotlib, Seaborn, Plotly
 
 
 
+Task 3: 80 Cereals Data Analysis
+Objective:
+Conduct an in-depth analysis of the nutritional values of cereals to understand their impact on consumer ratings.
+Dataset:
+•	Source: Kaggle - 80 Cereals
+•	Features:
+o	Name, Calories, Protein, Fat, Sodium, Fiber, Carbohydrates, Sugars, Potassium, Vitamins, Shelf, Rating
+Process:
+1.	Data Cleaning: Addressed missing values and fixed data types.
+2.	Exploratory Data Analysis (EDA):
+o	Examined distribution of nutritional values such as sugar content, fiber, calories, etc.
+o	Analyzed correlation between nutritional values and cereal ratings.
+3.	Visualizations:
+o	Heatmap of correlations between different nutritional features and ratings.
+o	Histograms and bar plots for key features like sugar, calories, and fiber.
+4.	Insights: Found a significant correlation between high sugar content and low ratings, highlighting the cereals with better nutritional value.
+Tools Used:
+Pandas, Matplotlib, Seaborn
+
+
+
+
